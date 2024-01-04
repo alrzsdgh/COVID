@@ -1,3 +1,5 @@
+`info.xlsx` contains demographic information about each slice in COVID-MAH-CT dataset.
+
 
 The COVID-MAH-CT dataset consists of chest CT images acquired from 133 patients who tested positive for COVID-19 in northern Iran between March 20, 2020, and March 13, 2022. The selection process deliberately considered four different waves of the COVID-19 epidemic in Iran, aiming to encompass the diverse patterns of pulmonary involvement observed during these periods. This approach enhances the dataset's training capabilities, contributing to more accurate diagnoses.
 
