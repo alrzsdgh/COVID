@@ -17,12 +17,12 @@ ______________________
 `Images` This directory includes the images used in this repository.
 
 
-`Patient Level` This directory encompasses all the code implemented for training and evaluating MASERes, along with benchmark models, specifically designed for patient-level analysis.
+`Patient Level` This directory includes all the code for training and evaluating MASERes, as well as benchmark models, specifically tailored for patient-level analysis. It also contains the implementation codes for the ablation study and the evaluation of MASERes on an external dataset, COVID-CTset.
 
 
 `Slice Level` This directory contains all the code implemented for training and evaluating models tailored for slice-level analysis.
 
-** Note: Each folder is accompanied by a README file that provides a comprehensive explanation of the contents within the respective folders.
+** Note: All the notebooks in this repository are designed to function independently. You can download and upload the ipynb file, then run the code cells to obtain the results. However, please note that the directory to the dataset has been changed. The new directory, as explained in the tutorial within the COVID-MAH-CT directory of this repository, must be used instead.
 
 # How to cite
 If you utilized COVID-MAH-CT data or the MASERes model, please cite:
