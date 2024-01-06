@@ -11,3 +11,14 @@ To improve accessibility and usability, two versions of the COVID-MAH-CT dataset
 
 For more information, please see our paper at [Scientific Reports](https://www.nature.com/articles/s41598-023-50742-9)
 > Sadeghi, A., Sadeghi, M., Sharifpour, A., Fakhar, M., Zakariaei, Z., Sadeghi, M., Rokni, M., Zakariaei, A., Banimostafavi, E. S., & Hajati, F. (2024). Potential diagnostic application of a novel deep learning-based approach for COVID-19. Scientific Reports, 14(1), 1-19. https://doi.org/10.1038/s41598-023-50742-9
+
+
+# Toturial
+If you are utilizing Kaggle notebooks and would like to import these datasets directly into your notebook without the need to download the data to your local computer, the following codes can be useful.
+
+`!pip install gdown`
+
+`!gdown --id 1bKo0pAsXSSgFJV4ATfkmGeeqmhVHRMU1`
+
+`!gdown --id 1aUTHbMopudfj_ATmmp_DNjr2BxX9M1c8`
+
