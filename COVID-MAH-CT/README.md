@@ -16,9 +16,8 @@ For more information, please see our paper at [Scientific Reports](https://www.n
 # Toturial
 If you are utilizing Kaggle notebooks and would like to import these datasets directly into your notebook without the need to download the data to your local computer, the following codes can be useful.
 
-`!pip install gdown`
-
-`!gdown --id 1bKo0pAsXSSgFJV4ATfkmGeeqmhVHRMU1`
-
-`!gdown --id 1aUTHbMopudfj_ATmmp_DNjr2BxX9M1c8`
-
+```
+!pip install gdown
+!gdown --id 1bKo0pAsXSSgFJV4ATfkmGeeqmhVHRMU1    # importing 2D-IR-MAH-CT to your notebook
+!gdown --id 1aUTHbMopudfj_ATmmp_DNjr2BxX9M1c8    # importing 3D-IR-MAH-CT to your notebook
+```
