@@ -11,7 +11,7 @@ MASERes Model:
 ______________________
 
 # Directories
-`COVID-MAH-CT` This directory houses the COVID-MAH-CT dataset, including both 2D and 3D data, along with two external datasets integral to our study (COVID-CTset and COVID-CT-MD).
+`COVID-MAH-CT` This directory houses the COVID-MAH-CT dataset, including both 2D and 3D data.
 
 
 `Images` This directory includes the images used in this repository.
